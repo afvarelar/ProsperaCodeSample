@@ -1,0 +1,8 @@
+C:\Users\Alex\source\repos\ProsperaCodeSample\ProsperaCodeSample\bin\Debug\ProsperaCodeSample.exe.config
+C:\Users\Alex\source\repos\ProsperaCodeSample\ProsperaCodeSample\bin\Debug\ProsperaCodeSample.exe
+C:\Users\Alex\source\repos\ProsperaCodeSample\ProsperaCodeSample\bin\Debug\ProsperaCodeSample.pdb
+C:\Users\Alex\source\repos\ProsperaCodeSample\ProsperaCodeSample\obj\Debug\ProsperaCodeSample.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\ProsperaCodeSample\ProsperaCodeSample\obj\Debug\ProsperaCodeSample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\source\repos\ProsperaCodeSample\ProsperaCodeSample\obj\Debug\ProsperaCodeSample.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ProsperaCodeSample\ProsperaCodeSample\obj\Debug\ProsperaCodeSample.exe
+C:\Users\Alex\source\repos\ProsperaCodeSample\ProsperaCodeSample\obj\Debug\ProsperaCodeSample.pdb
